@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyaraj24&label=Profile%20views&color=0e75b6&style=flat" alt="sanyaraj24" /> </p>
 
-- 🔭 I’m currently working on **a Backend Project**
+- 🔭 I’m currently working on **a project.**
 
-- 👨‍💻 All of my projects are available at [Sanyaraj24](Sanyaraj24)
+- 👨‍💻 All of my projects are available at [https://github.com/Sanyaraj24](https://github.com/Sanyaraj24)
 
 - 📫 How to reach me **rajsanya2424@gmail.com**
 
