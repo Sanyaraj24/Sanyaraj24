@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+I am a final-year undergraduate at IIIT Surat with a strong passion for software development and problem solving. I specialize in building clean, responsive web applications using technologies like React, Next.js, and Tailwind CSS. I’m currently exploring Machine Learning to deepen my understanding of intelligent systems. Driven by curiosity and impact, I enjoy turning complex challenges into elegant, efficient solutions.
 - 👨‍💻 Check out all my work here: [github.com/Sanyaraj24](https://github.com/Sanyaraj24)
 - 📫 Reach me at **rajsanya2424@gmail.com**
 
